@@ -1,14 +1,12 @@
 {
   "server_name": "senorpollo",
-  "nice_name": "SenorPollo Netzwerk",
+  "nice_name": "SenorPollo Network",
   "direct_ip": "senorpollo.net",
   "supported_languages": [
     "de"
   ],
   "social": {
     "discord": "https://discord.gg/7FGThxSqER",
-    "web": "https://senorpollo.net",
-    "teamspeak": "ts.senorpollo.net",
     "youtube": "https://www.youtube.com/@senor_pollo"
   },
   "location": {
